@@ -1,4 +1,3 @@
-# react_project
 ![The She Codes Logo](../../global_images/logo.png)
 
 # React Project: Crowdfunding App (Part 2)<br><sub><sup><sub>Due: Last Sunday of the module at 11:59pm.</sub></sup></sub>
